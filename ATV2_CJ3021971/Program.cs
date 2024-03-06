@@ -100,7 +100,9 @@
             float nn3 = nn * nn * nn;
             Console.WriteLine("O numero ao quadrado e ao cubo respectivamente é igual a {0}, {1}", nn2, nn3);
 
+            Console.Write("Exercicio 12");
 
+            Console.Write("Exercicio 13");
         }
     }
 }
